@@ -1,0 +1,8 @@
+name = "vpms-backend"
+main = "backend/index.js"
+compatibility_date = "2026-11-03"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vpms-database"
+database_id = "a17051ce-8469-43ce-bf27-fa9365aba919"

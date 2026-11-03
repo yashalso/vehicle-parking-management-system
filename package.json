@@ -1,0 +1,24 @@
+{
+  "name": "vehicle-parking-management-system",
+  "version": "1.0.0",
+  "description": "Cloud-based Vehicle Parking Management System using Cloudflare Pages, Workers and D1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashalso/vehicle-parking-management-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yashalso/vehicle-parking-management-system/issues"
+  },
+  "homepage": "https://github.com/yashalso/vehicle-parking-management-system#readme",
+  "devDependencies": {
+    "wrangler": "^4.157.0"
+  }
+}
